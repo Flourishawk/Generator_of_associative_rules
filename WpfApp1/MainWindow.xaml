@@ -1,0 +1,166 @@
+﻿<Window
+    x:Class="WpfApp1.MainWindow"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:local="clr-namespace:WpfApp1"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    Width="800"
+    Height="450"
+    ResizeMode="NoResize"
+    WindowStartupLocation="CenterScreen"
+    WindowStyle="None"
+    mc:Ignorable="d" ScrollViewer.VerticalScrollBarVisibility="Disabled">
+
+    <Grid x:Name="MainRoot">
+        <Grid.Background>
+            <ImageBrush ImageSource="Assets/MainBackground.png"></ImageBrush>
+        </Grid.Background>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="40" />
+            <RowDefinition Height="265" />
+            <RowDefinition Height="110" />
+            <RowDefinition Height="35"/>
+        </Grid.RowDefinitions>
+
+        <Grid
+            x:Name="Toolbar"
+            Grid.Row="0"
+            Background="Transparent"
+            MouseDown="Toolbar_MouseDown" Margin="0,1,0,264" Grid.RowSpan="2">
+
+
+            <StackPanel HorizontalAlignment="right" 
+                        Orientation="Horizontal" >
+
+                <Image
+                        x:Name="hideImg"
+                        Grid.Column="0"
+                        Width="30"
+                        Height="30"
+                        HorizontalAlignment="Center"
+                        VerticalAlignment="Top"
+                        MouseDown="Image_MouseDown">
+                    <Image.Style>
+                        <Style  TargetType="{x:Type Image}">
+                            <Setter Property="Source" Value="/Assets/HideImg.png"/>
+                            <Style.Triggers>
+                                <DataTrigger Binding="{Binding IsMouseOver, ElementName=hideImg}" 
+                                         Value="True">
+                                    <Setter Property="Source" Value="/Assets/HideImgFokus.png"/>
+                                </DataTrigger>
+                            </Style.Triggers>
+                        </Style>
+
+                    </Image.Style>
+                </Image>
+
+
+                <Image x:Name="mouse"
+                        Grid.Column="2"
+                        Width="30"
+                        Height="30"
+                        VerticalAlignment="Top"
+                        MouseDown="MainButtonClose_MouseDown">
+                    <Image.Style>
+                        <Style  TargetType="{x:Type Image}">
+                            <Setter Property="Source" Value="/Assets/CloseLogo.png"/>
+                            <Style.Triggers>
+                                <DataTrigger Binding="{Binding IsMouseOver, ElementName=mouse}" 
+                                         Value="True">
+                                    <Setter Property="Source" Value="/Assets/CloseLogoFocus.png"/>
+                                </DataTrigger>
+                            </Style.Triggers>
+                        </Style>
+
+                    </Image.Style>
+                </Image>
+
+            </StackPanel>
+
+        </Grid>
+
+        <Grid
+            x:Name="Logo"
+            Grid.Row="1"
+            Background="Transparent"
+            MouseDown="Toolbar_MouseDown">
+            <TextBlock HorizontalAlignment="Left" 
+                       Grid.Column="3"
+                       Margin="35,0,0,35"
+                       TextWrapping="Wrap" 
+                       Foreground="#cdccd3"
+                       Background="Transparent"
+                       FontFamily="Segoe UI Variable Display Semibold"
+                       FontSize="17"
+                       Text="Вам необхідно обрати з чим ви бажаєте працювати"
+                       VerticalAlignment="Bottom"/>
+        </Grid>
+
+        <Grid
+            x:Name="ButtonLevel"
+            Grid.Row="2"
+            Background="Transparent"
+            MouseDown="Toolbar_MouseDown">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="35"/>
+                <ColumnDefinition Width="160"/>
+                <ColumnDefinition/>
+            </Grid.ColumnDefinitions>
+
+            <Grid.RowDefinitions>
+                <RowDefinition Height="45"/>
+                <RowDefinition Height="17.5"/>
+                <RowDefinition Height="50"/>
+            </Grid.RowDefinitions>
+
+            <Image
+                x:Name="Logo1"
+                Grid.Column="2"
+                Grid.Row="2"
+                HorizontalAlignment="Right"
+                VerticalAlignment="Center"
+                Height="48"
+                Margin="0,0,35,2"
+                Source="/Assets/Logo.png"
+                />
+
+            <Button
+                Style="{DynamicResource AppButtonPink}"
+                Background="#d99393"
+                x:Name="MainButtonBd"
+                Grid.Row="0"
+                Grid.Column="1"
+                Height="45"
+                Content="DataBase"
+                FontSize="17" Click="MainButtonBd_Click"
+                >
+
+                <Button.ToolTip>
+                    <StackPanel>
+                        <Label>Тут ви зможете завантажити ваші дані з бази-даних для обробки</Label>
+                    </StackPanel>
+                </Button.ToolTip>
+                
+            </Button>
+
+            <Button Style="{DynamicResource AppButtonPurple}"
+                x:Name="MainButtonCSV"
+                Grid.Row="2"
+                Grid.Column="1"
+                Height="45"
+                Content="CSV"
+                FontSize="17" Click="MainButtonCSV_Click">
+
+                <Button.ToolTip>
+                    <StackPanel>
+                        <Label>Тут ви зможете завантажити ваш csv-файл для обробки</Label>
+                    </StackPanel>
+                </Button.ToolTip>
+
+            </Button>
+
+        </Grid>
+
+    </Grid>
+</Window>

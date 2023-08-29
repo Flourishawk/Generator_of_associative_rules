@@ -1,0 +1,55 @@
+﻿<Window x:Class="WpfApp1.DataBaseForm"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WpfApp1"
+        mc:Ignorable="d"
+        Title="DataBaseForm" Height="451" Width="800" WindowStartupLocation="CenterScreen" ScrollViewer.VerticalScrollBarVisibility="Disabled" ResizeMode="NoResize" WindowStyle="None">
+    <Grid Background="#1b1a26" ScrollViewer.VerticalScrollBarVisibility="Disabled">
+        <TextBox x:Name="databaseNameTextbox" Text="initial" Background="#cdccd3"  HorizontalContentAlignment="Left"  VerticalContentAlignment="Center" FontFamily="Segoe UI Variable Display Semibold" FontSize="15" HorizontalAlignment="Left" Margin="36,145,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="432" Height="32"/>
+        <TextBox x:Name="databaseUsernameTextbox" Background="#cdccd3"  HorizontalContentAlignment="Left"  VerticalContentAlignment="Center" FontFamily="Segoe UI Variable Display Semibold" FontSize="15" HorizontalAlignment="Left" Margin="36,223,0,0" TextWrapping="Wrap" Text="root" VerticalAlignment="Top" Width="432" Height="32"/>
+        <TextBox x:Name="databaseServerPortTextbox" Background="#cdccd3"  HorizontalContentAlignment="Left"  VerticalContentAlignment="Center" FontFamily="Segoe UI Variable Display Semibold" FontSize="15" HorizontalAlignment="Left" Margin="380,73,0,0" TextWrapping="Wrap" Text="3306" VerticalAlignment="Top" Width="88" Height="32"/>
+        <Label Content="DataBase Name" FontSize="13" Foreground="#cdccd3" FontFamily="Segoe UI Variable Display Semibold" HorizontalAlignment="Left" Margin="32,122,0,0" VerticalAlignment="Top"/>
+        <Label Content="DataBase username" FontSize="13" Foreground="#cdccd3" FontFamily="Segoe UI Variable Display Semibold" HorizontalAlignment="Left" Margin="32,200,0,0" VerticalAlignment="Top"/>
+        <Label Content="DataBase Password" FontSize="13" Foreground="#cdccd3" FontFamily="Segoe UI Variable Display Semibold" HorizontalAlignment="Left" Margin="32,275,0,0" VerticalAlignment="Top"/>
+        <Label x:Name="DatabaseServerPortTextbox" FontSize="13" Foreground="#cdccd3" FontFamily="Segoe UI Variable Display Semibold" Content="Server port" HorizontalAlignment="Left" Margin="377,50,0,0" VerticalAlignment="Top"/>
+        <TextBox x:Name="databaseServerTextbox" Background="#cdccd3"  HorizontalContentAlignment="Left"  VerticalContentAlignment="Center" FontFamily="Segoe UI Variable Display Semibold" FontSize="15" HorizontalAlignment="Left" Margin="36,73,0,0" TextWrapping="Wrap" Text="localhost" VerticalAlignment="Top" Width="310" Height="32"/>
+        <Label Content="Server" FontSize="13" Foreground="#cdccd3" FontFamily="Segoe UI Variable Display Semibold" HorizontalAlignment="Left" Margin="32,50,0,0" VerticalAlignment="Top"/>
+        <Button Content="Продовжити" Style="{DynamicResource AppButtonPink}"
+                Background="#d99393" FontSize="17" HorizontalAlignment="Left" Margin="36,373,0,0" VerticalAlignment="Top" Width="160" Click="Button_Click_1" Height="42"/>
+        <Button Content="Повернутися" FontSize="17" Style="{DynamicResource AppButtonPurple}" HorizontalAlignment="Left" Margin="605,374,0,0" VerticalAlignment="Top" Width="160" Click="Button_Click" Height="42"/>
+        <Image x:Name="mouse" Margin="770,0,0,421" Width="30" Height="30" MouseDown="mouse_MouseDown">
+            <Image.Style>
+                <Style  TargetType="{x:Type Image}">
+                    <Setter Property="Source" Value="/Assets/CloseLogo.png"/>
+                    <Style.Triggers>
+                        <DataTrigger Binding="{Binding IsMouseOver, ElementName=mouse}" 
+                            Value="True">
+                            <Setter Property="Source" Value="/Assets/CloseLogoFocus.png"/>
+                        </DataTrigger>
+                    </Style.Triggers>
+                </Style>
+
+            </Image.Style>
+        </Image>
+        <PasswordBox x:Name="databasePasswordTextbox" PasswordChar="*" Background="#cdccd3" VerticalContentAlignment="Center" FontFamily="Segoe UI Variable Display Semibold" FontSize="15" HorizontalAlignment="Left" Margin="37,299,0,0" VerticalAlignment="Top" Width="431" Height="32"/>
+        <Image
+            x:Name="hideImg"
+            MouseDown="Image_MouseDown" Margin="740,0,30,421">
+            <Image.Style>
+                <Style  TargetType="{x:Type Image}">
+                    <Setter Property="Source" Value="/Assets/HideImg.png"/>
+                    <Style.Triggers>
+                        <DataTrigger Binding="{Binding IsMouseOver, ElementName=hideImg}" 
+                            Value="True">
+                            <Setter Property="Source" Value="/Assets/HideImgFokus.png"/>
+                        </DataTrigger>
+                    </Style.Triggers>
+                </Style>
+
+            </Image.Style>
+        </Image>
+
+    </Grid>
+</Window>

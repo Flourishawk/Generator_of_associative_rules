@@ -1,0 +1,140 @@
+U:\Repository\C#\WpfApp1\WpfApp1\bin\Debug\WpfApp1.exe.config
+U:\Repository\C#\WpfApp1\WpfApp1\bin\Debug\WpfApp1.exe
+U:\Repository\C#\WpfApp1\WpfApp1\bin\Debug\WpfApp1.pdb
+U:\Repository\C#\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.AssemblyReference.cache
+U:\Repository\C#\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.SuggestedBindingRedirects.cache
+U:\Repository\C#\WpfApp1\WpfApp1\obj\Debug\MainWindow.g.cs
+U:\Repository\C#\WpfApp1\WpfApp1\obj\Debug\App.g.cs
+U:\Repository\C#\WpfApp1\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.cache
+U:\Repository\C#\WpfApp1\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.lref
+U:\Repository\C#\WpfApp1\WpfApp1\obj\Debug\MainWindow.baml
+U:\Repository\C#\WpfApp1\WpfApp1\obj\Debug\WpfApp1.g.resources
+U:\Repository\C#\WpfApp1\WpfApp1\obj\Debug\WpfApp1.Properties.Resources.resources
+U:\Repository\C#\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.GenerateResource.cache
+U:\Repository\C#\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.CoreCompileInputs.cache
+U:\Repository\C#\WpfApp1\WpfApp1\obj\Debug\WpfApp1.exe
+U:\Repository\C#\WpfApp1\WpfApp1\obj\Debug\WpfApp1.pdb
+U:\Repository\C#\WpfApp1\WpfApp1\obj\Debug\App.baml
+U:\Repository\C#\WpfApp1\WpfApp1\bin\Debug\MaterialDesignColors.dll
+U:\Repository\C#\WpfApp1\WpfApp1\bin\Debug\MaterialDesignThemes.Wpf.dll
+U:\Repository\C#\WpfApp1\WpfApp1\bin\Debug\Microsoft.Xaml.Behaviors.dll
+U:\Repository\C#\WpfApp1\WpfApp1\bin\Debug\MaterialDesignColors.pdb
+U:\Repository\C#\WpfApp1\WpfApp1\bin\Debug\MaterialDesignThemes.Wpf.pdb
+U:\Repository\C#\WpfApp1\WpfApp1\bin\Debug\MaterialDesignThemes.Wpf.xml
+U:\Repository\C#\WpfApp1\WpfApp1\bin\Debug\Microsoft.Xaml.Behaviors.pdb
+U:\Repository\C#\WpfApp1\WpfApp1\bin\Debug\Microsoft.Xaml.Behaviors.xml
+U:\Repository\C#\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.CopyComplete
+U:\Repository\C#\WpfApp1\WpfApp1\obj\Debug\Design\Styles.baml
+U:\Repository\C#\WpfApp1\WpfApp1\obj\Debug\DataBaseForm.g.cs
+U:\Repository\C#\WpfApp1\WpfApp1\obj\Debug\DataBaseForm.baml
+U:\Repository\C#\WpfApp1\WpfApp1\obj\Debug\DatabaseInfo.g.cs
+U:\Repository\C#\WpfApp1\WpfApp1\obj\Debug\DatabaseInfo.baml
+U:\Repository\C#\WpfApp1\WpfApp1\bin\Debug\System.Data.SqlClient.dll
+U:\Repository\C#\WpfApp1\WpfApp1\bin\Debug\System.Data.SqlClient.xml
+U:\Repository\C#\WpfApp1\WpfApp1\bin\Debug\BouncyCastle.Crypto.dll
+U:\Repository\C#\WpfApp1\WpfApp1\bin\Debug\Google.Protobuf.dll
+U:\Repository\C#\WpfApp1\WpfApp1\bin\Debug\K4os.Compression.LZ4.dll
+U:\Repository\C#\WpfApp1\WpfApp1\bin\Debug\K4os.Compression.LZ4.Streams.dll
+U:\Repository\C#\WpfApp1\WpfApp1\bin\Debug\K4os.Hash.xxHash.dll
+U:\Repository\C#\WpfApp1\WpfApp1\bin\Debug\MySql.Data.dll
+U:\Repository\C#\WpfApp1\WpfApp1\bin\Debug\System.Buffers.dll
+U:\Repository\C#\WpfApp1\WpfApp1\bin\Debug\System.IO.Pipelines.dll
+U:\Repository\C#\WpfApp1\WpfApp1\bin\Debug\System.Memory.dll
+U:\Repository\C#\WpfApp1\WpfApp1\bin\Debug\System.Numerics.Vectors.dll
+U:\Repository\C#\WpfApp1\WpfApp1\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+U:\Repository\C#\WpfApp1\WpfApp1\bin\Debug\System.Threading.Tasks.Extensions.dll
+U:\Repository\C#\WpfApp1\WpfApp1\bin\Debug\BouncyCastle.Crypto.xml
+U:\Repository\C#\WpfApp1\WpfApp1\bin\Debug\Google.Protobuf.pdb
+U:\Repository\C#\WpfApp1\WpfApp1\bin\Debug\Google.Protobuf.xml
+U:\Repository\C#\WpfApp1\WpfApp1\bin\Debug\K4os.Compression.LZ4.xml
+U:\Repository\C#\WpfApp1\WpfApp1\bin\Debug\K4os.Compression.LZ4.Streams.xml
+U:\Repository\C#\WpfApp1\WpfApp1\bin\Debug\K4os.Hash.xxHash.xml
+U:\Repository\C#\WpfApp1\WpfApp1\bin\Debug\MySql.Data.xml
+U:\Repository\C#\WpfApp1\WpfApp1\bin\Debug\System.Buffers.xml
+U:\Repository\C#\WpfApp1\WpfApp1\bin\Debug\System.IO.Pipelines.xml
+U:\Repository\C#\WpfApp1\WpfApp1\bin\Debug\System.Memory.xml
+U:\Repository\C#\WpfApp1\WpfApp1\bin\Debug\System.Numerics.Vectors.xml
+U:\Repository\C#\WpfApp1\WpfApp1\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+U:\Repository\C#\WpfApp1\WpfApp1\bin\Debug\System.Threading.Tasks.Extensions.xml
+U:\Repository\C#\WpfApp1\WpfApp1\bin\Debug\CsvHelper.dll
+U:\Repository\C#\WpfApp1\WpfApp1\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+U:\Repository\C#\WpfApp1\WpfApp1\bin\Debug\Microsoft.Bcl.HashCode.dll
+U:\Repository\C#\WpfApp1\WpfApp1\bin\Debug\CsvHelper.xml
+U:\Repository\C#\WpfApp1\WpfApp1\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+U:\Repository\C#\WpfApp1\WpfApp1\bin\Debug\Microsoft.Bcl.HashCode.xml
+U:\Repository\C#\WpfApp1\WpfApp1\obj\Debug\CSVUpload.g.cs
+U:\Repository\C#\WpfApp1\WpfApp1\obj\Debug\CSVUpload.baml
+U:\Repository\C#\WpfApp1\WpfApp1\obj\Debug\Options.g.cs
+U:\Repository\C#\WpfApp1\WpfApp1\obj\Debug\Options.baml
+U:\Repository\C#\WpfApp1\WpfApp1\obj\Debug\Final.g.cs
+U:\Repository\C#\WpfApp1\WpfApp1\obj\Debug\Final.baml
+U:\Repository\C#\Bachelor`s project\WpfApp1\bin\Debug\WpfApp1.exe.config
+U:\Repository\C#\Bachelor`s project\WpfApp1\bin\Debug\WpfApp1.exe
+U:\Repository\C#\Bachelor`s project\WpfApp1\bin\Debug\WpfApp1.pdb
+U:\Repository\C#\Bachelor`s project\WpfApp1\bin\Debug\BouncyCastle.Crypto.dll
+U:\Repository\C#\Bachelor`s project\WpfApp1\bin\Debug\CsvHelper.dll
+U:\Repository\C#\Bachelor`s project\WpfApp1\bin\Debug\Google.Protobuf.dll
+U:\Repository\C#\Bachelor`s project\WpfApp1\bin\Debug\K4os.Compression.LZ4.dll
+U:\Repository\C#\Bachelor`s project\WpfApp1\bin\Debug\K4os.Compression.LZ4.Streams.dll
+U:\Repository\C#\Bachelor`s project\WpfApp1\bin\Debug\K4os.Hash.xxHash.dll
+U:\Repository\C#\Bachelor`s project\WpfApp1\bin\Debug\MaterialDesignColors.dll
+U:\Repository\C#\Bachelor`s project\WpfApp1\bin\Debug\MaterialDesignThemes.Wpf.dll
+U:\Repository\C#\Bachelor`s project\WpfApp1\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+U:\Repository\C#\Bachelor`s project\WpfApp1\bin\Debug\Microsoft.Bcl.HashCode.dll
+U:\Repository\C#\Bachelor`s project\WpfApp1\bin\Debug\Microsoft.Xaml.Behaviors.dll
+U:\Repository\C#\Bachelor`s project\WpfApp1\bin\Debug\MySql.Data.dll
+U:\Repository\C#\Bachelor`s project\WpfApp1\bin\Debug\System.Buffers.dll
+U:\Repository\C#\Bachelor`s project\WpfApp1\bin\Debug\System.Data.SqlClient.dll
+U:\Repository\C#\Bachelor`s project\WpfApp1\bin\Debug\System.IO.Pipelines.dll
+U:\Repository\C#\Bachelor`s project\WpfApp1\bin\Debug\System.Memory.dll
+U:\Repository\C#\Bachelor`s project\WpfApp1\bin\Debug\System.Numerics.Vectors.dll
+U:\Repository\C#\Bachelor`s project\WpfApp1\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+U:\Repository\C#\Bachelor`s project\WpfApp1\bin\Debug\System.Threading.Tasks.Extensions.dll
+U:\Repository\C#\Bachelor`s project\WpfApp1\bin\Debug\BouncyCastle.Crypto.xml
+U:\Repository\C#\Bachelor`s project\WpfApp1\bin\Debug\CsvHelper.xml
+U:\Repository\C#\Bachelor`s project\WpfApp1\bin\Debug\Google.Protobuf.pdb
+U:\Repository\C#\Bachelor`s project\WpfApp1\bin\Debug\Google.Protobuf.xml
+U:\Repository\C#\Bachelor`s project\WpfApp1\bin\Debug\K4os.Compression.LZ4.xml
+U:\Repository\C#\Bachelor`s project\WpfApp1\bin\Debug\K4os.Compression.LZ4.Streams.xml
+U:\Repository\C#\Bachelor`s project\WpfApp1\bin\Debug\K4os.Hash.xxHash.xml
+U:\Repository\C#\Bachelor`s project\WpfApp1\bin\Debug\MaterialDesignColors.pdb
+U:\Repository\C#\Bachelor`s project\WpfApp1\bin\Debug\MaterialDesignThemes.Wpf.pdb
+U:\Repository\C#\Bachelor`s project\WpfApp1\bin\Debug\MaterialDesignThemes.Wpf.xml
+U:\Repository\C#\Bachelor`s project\WpfApp1\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+U:\Repository\C#\Bachelor`s project\WpfApp1\bin\Debug\Microsoft.Bcl.HashCode.xml
+U:\Repository\C#\Bachelor`s project\WpfApp1\bin\Debug\Microsoft.Xaml.Behaviors.pdb
+U:\Repository\C#\Bachelor`s project\WpfApp1\bin\Debug\Microsoft.Xaml.Behaviors.xml
+U:\Repository\C#\Bachelor`s project\WpfApp1\bin\Debug\MySql.Data.xml
+U:\Repository\C#\Bachelor`s project\WpfApp1\bin\Debug\System.Buffers.xml
+U:\Repository\C#\Bachelor`s project\WpfApp1\bin\Debug\System.Data.SqlClient.xml
+U:\Repository\C#\Bachelor`s project\WpfApp1\bin\Debug\System.IO.Pipelines.xml
+U:\Repository\C#\Bachelor`s project\WpfApp1\bin\Debug\System.Memory.xml
+U:\Repository\C#\Bachelor`s project\WpfApp1\bin\Debug\System.Numerics.Vectors.xml
+U:\Repository\C#\Bachelor`s project\WpfApp1\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+U:\Repository\C#\Bachelor`s project\WpfApp1\bin\Debug\System.Threading.Tasks.Extensions.xml
+U:\Repository\C#\Bachelor`s project\WpfApp1\obj\Debug\WpfApp1.csproj.AssemblyReference.cache
+U:\Repository\C#\Bachelor`s project\WpfApp1\obj\Debug\WpfApp1.csproj.SuggestedBindingRedirects.cache
+U:\Repository\C#\Bachelor`s project\WpfApp1\obj\Debug\CSVUpload.g.cs
+U:\Repository\C#\Bachelor`s project\WpfApp1\obj\Debug\DataBaseForm.g.cs
+U:\Repository\C#\Bachelor`s project\WpfApp1\obj\Debug\DatabaseInfo.g.cs
+U:\Repository\C#\Bachelor`s project\WpfApp1\obj\Debug\Final.g.cs
+U:\Repository\C#\Bachelor`s project\WpfApp1\obj\Debug\MainWindow.g.cs
+U:\Repository\C#\Bachelor`s project\WpfApp1\obj\Debug\Options.g.cs
+U:\Repository\C#\Bachelor`s project\WpfApp1\obj\Debug\App.g.cs
+U:\Repository\C#\Bachelor`s project\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.cache
+U:\Repository\C#\Bachelor`s project\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.lref
+U:\Repository\C#\Bachelor`s project\WpfApp1\obj\Debug\App.baml
+U:\Repository\C#\Bachelor`s project\WpfApp1\obj\Debug\CSVUpload.baml
+U:\Repository\C#\Bachelor`s project\WpfApp1\obj\Debug\DataBaseForm.baml
+U:\Repository\C#\Bachelor`s project\WpfApp1\obj\Debug\DatabaseInfo.baml
+U:\Repository\C#\Bachelor`s project\WpfApp1\obj\Debug\Final.baml
+U:\Repository\C#\Bachelor`s project\WpfApp1\obj\Debug\MainWindow.baml
+U:\Repository\C#\Bachelor`s project\WpfApp1\obj\Debug\Design\Styles.baml
+U:\Repository\C#\Bachelor`s project\WpfApp1\obj\Debug\Options.baml
+U:\Repository\C#\Bachelor`s project\WpfApp1\obj\Debug\WpfApp1.g.resources
+U:\Repository\C#\Bachelor`s project\WpfApp1\obj\Debug\WpfApp1.Properties.Resources.resources
+U:\Repository\C#\Bachelor`s project\WpfApp1\obj\Debug\WpfApp1.csproj.GenerateResource.cache
+U:\Repository\C#\Bachelor`s project\WpfApp1\obj\Debug\WpfApp1.csproj.CoreCompileInputs.cache
+U:\Repository\C#\Bachelor`s project\WpfApp1\obj\Debug\WpfApp1.csproj.CopyComplete
+U:\Repository\C#\Bachelor`s project\WpfApp1\obj\Debug\WpfApp1.exe
+U:\Repository\C#\Bachelor`s project\WpfApp1\obj\Debug\WpfApp1.pdb
