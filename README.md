@@ -3,9 +3,16 @@
 </p>
 
 <p align="center">
-   <img src="https://img.shields.io/badge/Technology-WPF%20-blueviolet" alt="Technology">
-   <img src="https://img.shields.io/badge/Version-1.0%20(Alpha)-blue" alt="Version">
+   <img src="https://img.shields.io/badge/.NET-v4.72+%20-dc9799" alt="Technology">
+   <img src="https://img.shields.io/badge/Licence-GPL 3.0%20-a37fc0" alt="Technology">
+   <img src="https://img.shields.io/badge/Visual Studio-2022%20-6e5be1" alt="Technology">
 </p>
+      <p align="center">
+<a href="https://codebeat.co/projects/github-com-flourishawk-generator_of_associative_rules-main">
+      <img alt="codebeat badge" src="https://codebeat.co/badges/b35a2343-ae8a-44e9-8f04-907a90565972"/>
+</a>
+</p>
+
 
 ## About Assorule
 
