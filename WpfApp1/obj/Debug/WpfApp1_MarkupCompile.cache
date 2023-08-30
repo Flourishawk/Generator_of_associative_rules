@@ -4,17 +4,17 @@
 winexe
 C#
 .cs
-U:\Repository\C#\Bachelor`s project\WpfApp1\obj\Debug\
+U:\Git project\Generator_of_associative_rules\WpfApp1\obj\Debug\
 WpfApp1
 none
 false
 DEBUG;TRACE
-U:\Repository\C#\Bachelor`s project\WpfApp1\App.xaml
+U:\Git project\Generator_of_associative_rules\WpfApp1\App.xaml
 71896778834
 
-15-1720085765
-361229531965
+16492792913
+361152365061
 CSVUpload.xaml;DataBaseForm.xaml;DatabaseInfo.xaml;Final.xaml;MainWindow.xaml;Design\Styles.xaml;Options.xaml;
 
-False
+True
 
